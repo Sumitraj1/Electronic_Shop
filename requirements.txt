@@ -15,9 +15,11 @@ django-crispy-forms==2.4
 django-environ==0.12.0
 et_xmlfile==2.0.0
 fonttools==4.59.2
+gunicorn==23.0.0
 idna==3.10
 msgpack==1.1.1
 openpyxl==3.1.5
+packaging==25.0
 pillow==11.3.0
 psycopg2-binary==2.9.10
 pycparser==2.22
